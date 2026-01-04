@@ -1,3 +1,11 @@
+"""
+Project: Personal Finance Tracker
+Author: Frans Dube
+Date: 2023-10-27
+Description: This module handles user authentication using Firebase Admin SDK
+             for user creation and Firebase REST API for login.
+"""
+
 import firebase_admin
 from firebase_admin import auth
 import requests

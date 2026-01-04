@@ -1,3 +1,11 @@
+"""
+Project: Personal Finance Tracker
+Author: Frans Dube
+Date: 2023-10-27
+Description: This module provides analytics functions to calculate budget summaries
+             and category spending breakdowns using Pandas.
+"""
+
 import pandas as pd
 
 def generate_summary(transactions):

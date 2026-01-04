@@ -1,3 +1,11 @@
+"""
+Project: Personal Finance Tracker
+Author: Frans Dube
+Date: 2023-10-27
+Description: The main entry point for the CLI application. It handles the user
+             interface loop and delegates tasks to other modules.
+"""
+
 import sys
 import os
 

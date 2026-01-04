@@ -1,3 +1,11 @@
+"""
+Project: Personal Finance Tracker
+Author: Frans Dube
+Date: 2023-10-27
+Description: This module handles all Firestore database interactions, including
+             CRUD operations for transactions.
+"""
+
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import firestore
