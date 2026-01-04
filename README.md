@@ -53,7 +53,7 @@ python src/main.py
 - `src/analytics.py`: Uses Pandas to calculate financial summaries.
 
 ## Video Demonstration
-[Link to Video Demo] (Placeholder)
+https://youtu.be/aCBGUa67XzQ
 
 ## Future Improvements
 - Add graphical charts for spending analysis.
