@@ -16,7 +16,7 @@ import json
 # Note: For security, API keys should be in environment variables.
 # Since this is a sandbox and I cannot rely on user providing it immediately,
 # I will use a placeholder or check env.
-WEB_API_KEY = os.environ.get("FIREBASE_WEB_API_KEY", "YOUR_WEB_API_KEY")
+WEB_API_KEY = os.environ.get("FIREBASE_WEB_API_KEY", "AIzaSyC4q2bwsk7eCBmgZ_-1fuuN4b6V5A6iOUc")
 
 def register_user(email, password):
     """
